@@ -1,4 +1,4 @@
-# Course Mobile Programming 
+# Course Machine Learning
 
 ```
 Wildan Hafidz Mauludin
