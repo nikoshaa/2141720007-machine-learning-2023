@@ -1,6 +1,6 @@
 # Machine Learning Course
 
-[![screen](screen.png)](https://twitter.com/sonnylazuardi/status/1634821365596299264)
+![screen](screen.jpg)
 
 ## Overview
 
